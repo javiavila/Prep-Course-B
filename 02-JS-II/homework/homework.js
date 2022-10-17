@@ -156,12 +156,12 @@ function devolverString(str) {
     //Si el número es 0, devuelve false
     // Tu código:
     if(numero > 0) {
-      return "Es postivo"
+      return "Es positivo"
     }
-    else if(numero < 0){
+    else if(numero < 0) {
       return "Es negativo"
     }
-    else {
+    else{
       return false
     }
 
